@@ -1,2 +1,2 @@
 # nobels
-Analysis of Nobel prizes and Nobel Laureates from the nobelprize.org API.
+Analyze Nobel prize and Nobel Laureate data from the nobelprize.org API.
